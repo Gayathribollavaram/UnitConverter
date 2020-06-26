@@ -59,8 +59,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 switch (which) {
-                    case 0:
-                        break;
                     default:
                         SharedPreferences sharedPreferences = getSharedPreferences("default", Context.MODE_PRIVATE);
                         SharedPreferences.Editor editor = sharedPreferences.edit();
