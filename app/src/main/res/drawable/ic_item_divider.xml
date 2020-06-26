@@ -1,0 +1,27 @@
+<!--
+  ~ Copyright (c) 2019 Microsoft Corporation. All rights reserved.
+  ~
+  ~ Created by Microsoft Defender Android team.
+  ~ Last modified 11/7/19 3:19 PM
+  ~
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="361dp"
+    android:height="1dp"
+    android:alpha="0.12"
+    android:viewportWidth="361"
+    android:viewportHeight="1">
+
+    <group>
+        <clip-path android:pathData="M0.5 0.5H360.5H0.5Z" />
+    </group>
+
+    <path
+        android:pathData="M0.5 0.5H360.5H0.5Z"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"
+        android:strokeLineCap="square" />
+
+</vector>

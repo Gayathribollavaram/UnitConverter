@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2019 Microsoft Corporation. All rights reserved.
+  ~
+  ~ Created by Microsoft Defender Android team.
+  ~ Last modified 21/12/19 6:22 PM
+  ~
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false"
+        android:color="#000000" />
+
+    <!-- Button Default Image-->
+    <item android:color="#000000"/>
+</selector>
